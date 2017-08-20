@@ -10,7 +10,7 @@ stepping	: 10
 microcode	: 0xa07
 cpu MHz		: 800.000
 cache size	: 3072 KB
-physical id	: 0
+physical id	: 3
 siblings	: 2
 core id		: 0
 cpu cores	: 2
